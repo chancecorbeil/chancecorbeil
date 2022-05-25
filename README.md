@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋🦁
 
-### Check out these websites
+### Check out these websites 🔭
 
 [OSC Elate](https://www.oscelate.com/)
 
