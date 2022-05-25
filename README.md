@@ -6,6 +6,8 @@
 
 [Websites I designed](https://www.instagram.com/chancecorbeilwebsites/)
 
+[A collection of my GitHub Gists](https://gist.github.com/chancecorbeil)
+
 <!--
 **chancecorbeil/chancecorbeil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
