@@ -2,11 +2,10 @@
 
 ### Check out these websites 🔭
 
-[OSC Elate](https://www.oscelate.com/)
-
-[Websites I designed](https://www.instagram.com/chancecorbeilwebsites/)
-
-[A collection of my GitHub Gists](https://gist.github.com/chancecorbeil)
+* [OSC Elate](https://www.oscelate.com/)
+* [Websites I designed](https://www.instagram.com/chancecorbeilwebsites/)
+* [A collection of my GitHub Gists](https://gist.github.com/chancecorbeil)
+* [My Resume](https://chancecorbeil.github.io/Resume/)
 
 <!--
 **chancecorbeil/chancecorbeil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
