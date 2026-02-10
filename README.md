@@ -1,9 +1,9 @@
-## Hi there 👋🦁
+## Hi there 👋 I make websites, mostly for transit agencies
 
 ### Check out these websites 🔭
 
 * [OSC Elate](https://www.oscelate.com/)
-* [Websites I designed](https://www.instagram.com/chancecorbeilwebsites/)
+* [Websites I designed long ago](https://www.instagram.com/chancecorbeilwebsites/)
 * [A collection of my GitHub Gists](https://gist.github.com/chancecorbeil)
 * [My Resume](https://chancecorbeil.github.io/Resume/)
 
