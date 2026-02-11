@@ -1,10 +1,6 @@
 ## Hi there 👋 I make websites, mostly for transit agencies
 
 
-<div align="center">
-  <div style="display: flex; justify-content: center;">
-    <sub align="left">
-
 ### Transit websites I built at work 🔭
 
 * [TCRTA](https://gotcrta.org/)
@@ -20,8 +16,9 @@
 * [Oregon GTFS](https://oregon-gtfs.com/)
 * [Basin Transit](https://basin-transit.com/)
 
-</sub>
-<sub align="left">
+
+
+
 
 ### I'm looking for work 🔭
 
@@ -33,10 +30,6 @@
 * [Websites I designed long ago](https://www.instagram.com/chancecorbeilwebsites/)
 * [A collection of my GitHub Gists](https://gist.github.com/chancecorbeil)
 * [My Resume](https://chancecorbeil.github.io/Resume/)
-
-</sub>
-  </div>
-</div>
 
 
 <!--
