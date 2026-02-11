@@ -1,7 +1,8 @@
 ## Hi there 👋 I make websites, mostly for transit agencies
 
-<div align="center">
-  <div align="left" style="display: inline-block; width: 45%; vertical-align: top;">
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" width="50%" style="border: none;">
 
 ### Transit websites I built at work 🔭
 
@@ -18,8 +19,8 @@
 * [Oregon GTFS](https://oregon-gtfs.com/)
 * [Basin Transit](https://basin-transit.com/)
 
-  </div>
-  <div align="left" style="display: inline-block; width: 45%; vertical-align: top;">
+    </td>
+    <td valign="top" width="50%" style="border: none;">
 
 ### I'm looking for work 🔭
 
@@ -32,8 +33,9 @@
 * [A collection of my GitHub Gists](https://gist.github.com/chancecorbeil)
 * [My Resume](https://chancecorbeil.github.io/Resume/)
 
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
 <!--
 **chancecorbeil/chancecorbeil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
