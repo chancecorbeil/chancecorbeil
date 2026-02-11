@@ -1,40 +1,8 @@
 ## Hi there 👋 I make websites, mostly for transit agencies
 
-<div width="100%">
-  <div align="left" width="48%" style="display: inline-block; float: left; min-width: 300px;">
-
-### Transit websites I built at work 🔭
-
-* [TCRTA](https://gotcrta.org/)
-* [Anaheim Transportation Network](https://rideart.org/)
-* [Merrimack Valley Transit](https://mevatransit.com/)
-* [Radford Transit](https://radfordtransit.com/)
-* [Placer County Transit](https://placercountytransit.com/)
-* [Rogue Valley Transportation District](https://rvtd.org/)
-* [Santa Rosa CityBus](https://srcitybus.org/)
-* [South Central Transit](https://southcentraltransit.org/)
-* [Vamos Mobility](https://vamosmobility.com/)
-* [Vermont GTFS](https://vermont-gtfs.org/)
-* [Oregon GTFS](https://oregon-gtfs.com/)
-* [Basin Transit](https://basin-transit.com/)
-
-  </div>
-  <div align="left" width="48%" style="display: inline-block; float: left; min-width: 300px;">
-
-### I'm looking for work 🔭
-
-[![Resume](https://img.shields.io/badge/View_Resume-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://chancecorbeil.github.io/Resume/)
-
-### Check out these websites 🔭
-
-* [OSC Elate](https://www.oscelate.com/)
-* [Websites I designed long ago](https://www.instagram.com/chancecorbeilwebsites/)
-* [A collection of my GitHub Gists](https://gist.github.com/chancecorbeil)
-* [My Resume](https://chancecorbeil.github.io/Resume/)
-
-  </div>
-</div>
-<br clear="both">
+| | |
+| :--- | :--- |
+| **Transit websites I built at work 🔭** <br> <ul><li>[TCRTA](https://gotcrta.org/)</li><li>[Anaheim Transportation Network](https://rideart.org/)</li><li>[Merrimack Valley Transit](https://mevatransit.com/)</li><li>[Radford Transit](https://radfordtransit.com/)</li><li>[Placer County Transit](https://placercountytransit.com/)</li><li>[Rogue Valley Transportation District](https://rvtd.org/)</li><li>[Santa Rosa CityBus](https://srcitybus.org/)</li><li>[South Central Transit](https://southcentraltransit.org/)</li><li>[Vamos Mobility](https://vamosmobility.com/)</li><li>[Vermont GTFS](https://vermont-gtfs.org/)</li><li>[Oregon GTFS](https://oregon-gtfs.com/)</li><li>[Basin Transit](https://basin-transit.com/)</li></ul> | **I'm looking for work 🔭** <br><br> [![Resume](https://img.shields.io/badge/View_Resume-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://chancecorbeil.github.io/Resume/) <br><br> **Check out these websites 🔭** <ul><li>[OSC Elate](https://www.oscelate.com/)</li><li>[Websites I designed long ago](https://www.instagram.com/chancecorbeilwebsites/)</li><li>[A collection of my GitHub Gists](https://gist.github.com/chancecorbeil)</li><li>[My Resume](https://chancecorbeil.github.io/Resume/)</li></ul> |
 <!--
 **chancecorbeil/chancecorbeil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
