@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Hi there 👋 My name is Chance Corbeil
 ## I make websites 👨‍💻, mostly for transit agencies 🚌 
 
 
@@ -7,6 +7,7 @@
 [![Resume](https://img.shields.io/badge/View_Resume-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://chancecorbeil.github.io/Resume/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chancecorbeil)
 
+If you are looking for an expert WordPress developer, I have 17 years of experience and passion. I’m currently 5 years in as the lead developer for Transit Agency websites. 
 
 ### Transit websites I built at work 🚍
 
