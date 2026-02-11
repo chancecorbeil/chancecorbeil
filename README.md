@@ -1,4 +1,10 @@
-## Hi there 👋 I make websites, mostly for transit agencies
+## Hi there 👋 
+## I make websites 👨‍💻, mostly for transit agencies 🚌 
+
+
+### I'm looking for a new job 🔭
+
+[![Resume](https://img.shields.io/badge/View_Resume-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://chancecorbeil.github.io/Resume/)
 
 
 ### Transit websites I built at work 🔭
@@ -18,18 +24,11 @@
 
 
 
-
-
-### I'm looking for work 🔭
-
-[![Resume](https://img.shields.io/badge/View_Resume-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://chancecorbeil.github.io/Resume/)
-
-### Check out these websites 🔭
+### Other websites and references 🛠️
 
 * [OSC Elate](https://www.oscelate.com/)
 * [Websites I designed long ago](https://www.instagram.com/chancecorbeilwebsites/)
 * [A collection of my GitHub Gists](https://gist.github.com/chancecorbeil)
-* [My Resume](https://chancecorbeil.github.io/Resume/)
 
 
 <!--
