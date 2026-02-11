@@ -29,6 +29,8 @@
 * [A collection of my GitHub Gists](https://gist.github.com/chancecorbeil)
 * [My Resume](https://chancecorbeil.github.io/Resume/)
 
+* [![Resume](https://img.shields.io/badge/View_Resume-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://chancecorbeil.github.io/Resume/)
+
     </td>
   </tr>
 </table>
