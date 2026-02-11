@@ -1,8 +1,8 @@
 ## Hi there 👋 I make websites, mostly for transit agencies
 
-<table border="0" width="100%">
+<table style="border: none; width: 100%;" width="100%">
   <tr>
-    <td valign="top" width="50%" border="0">
+    <td valign="top" width="50%" >
 
 ### Transit websites I built at work 🔭
 
@@ -20,7 +20,11 @@
 * [Basin Transit](https://basin-transit.com/)
 
     </td>
-    <td valign="top" width="50%" border="0">
+    <td valign="top" width="50%" >
+
+    ### I'm looking for work 🔭
+
+[![Resume](https://img.shields.io/badge/View_Resume-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://chancecorbeil.github.io/Resume/)
 
 ### Check out these websites 🔭
 
@@ -29,7 +33,7 @@
 * [A collection of my GitHub Gists](https://gist.github.com/chancecorbeil)
 * [My Resume](https://chancecorbeil.github.io/Resume/)
 
-* [![Resume](https://img.shields.io/badge/View_Resume-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://chancecorbeil.github.io/Resume/)
+
 
     </td>
   </tr>
