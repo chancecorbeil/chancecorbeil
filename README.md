@@ -1,6 +1,10 @@
 ## Hi there 👋 I make websites, mostly for transit agencies
 
-* ### Check out these transit websites I built at work 🔭
+<table border="0">
+  <tr>
+    <td valign="top" width="50%">
+
+### Transit websites I built at work 🔭
 
 * [TCRTA](https://gotcrta.org/)
 * [Anaheim Transportation Network](https://rideart.org/)
@@ -15,12 +19,19 @@
 * [Oregon GTFS](https://oregon-gtfs.com/)
 * [Basin Transit](https://basin-transit.com/)
 
+    </td>
+    <td valign="top" width="50%">
+
 ### Check out these websites 🔭
 
 * [OSC Elate](https://www.oscelate.com/)
 * [Websites I designed long ago](https://www.instagram.com/chancecorbeilwebsites/)
 * [A collection of my GitHub Gists](https://gist.github.com/chancecorbeil)
 * [My Resume](https://chancecorbeil.github.io/Resume/)
+
+    </td>
+  </tr>
+</table>
 <!--
 **chancecorbeil/chancecorbeil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
