@@ -1,8 +1,8 @@
 ## Hi there 👋 I make websites, mostly for transit agencies
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" border="0">
 
 ### Transit websites I built at work 🔭
 
@@ -20,7 +20,7 @@
 * [Basin Transit](https://basin-transit.com/)
 
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" border="0">
 
 ### Check out these websites 🔭
 
