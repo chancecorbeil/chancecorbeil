@@ -32,22 +32,10 @@ If you are looking for an expert WordPress developer, I have 17 years of experie
 * [Websites I designed long ago](https://www.instagram.com/chancecorbeilwebsites/)
 * [A collection of my GitHub Gists](https://gist.github.com/chancecorbeil)
 
+### Skills
+
+PHP, JS, HTML5, CSS3, SASS, Website Design & Development, Ecommerce, Page Speed, User Experience, Responsive Design, SEO, Client Communications, Transferring Websites, Analytics, Security, WooCommerce, and WordPress
+
 ### Transit Agency Website Skills
 
 GTFS, WCAAG Level AA, Interactive Maps, Realtime Arrivals, Trip Planners, Schematic Maps, Standardized Transit Agency Website Theme
-
-
-<!--
-**chancecorbeil/chancecorbeil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
