@@ -39,3 +39,11 @@ PHP, JS, HTML5, CSS3, SASS, JQuery, mysql, Git, Website Design & Development, Wo
 ### Transit Agency Website Skills
 
 GTFS, WCAG Level AA, Interactive Maps, Realtime Arrivals, Trip Planners, Schematic Maps, Standardized Transit Agency Website Theme
+
+##OSCelate
+
+###Control Resolume in your browser with OSCelate
+
+I built this software as an open source connection between Resolume and your local browser. Think of this as an interface for your custom Resolume controller. Maybe for you to build your dream VJ controller, or build LED art with a public interface to control colors and patterns.
+
+OSCelate connects to a Resolume API that didn’t have a user side UI. So I built this as a personal need, and exposed it as a gift to the open source world. The website is an actual Resolume connection. Just follow the installation instructions and the interface will trigger your Resolume.
