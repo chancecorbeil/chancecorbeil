@@ -41,7 +41,7 @@ PHP, JS, HTML5, CSS3, SASS, JQuery, mysql, Git, Website Design & Development, Wo
 GTFS, WCAG Level AA, Interactive Maps, Realtime Arrivals, Trip Planners, Schematic Maps, Standardized Transit Agency Website Theme
 
 ### OSCelate
-Control Resolume in your browser with OSCelate
+Control Resolume in your browser with [OSC Elate](https://www.oscelate.com/)
 
 I built this software as an open source connection between Resolume and your local browser. Think of this as an interface for your custom Resolume controller. Maybe for you to build your dream VJ controller, or build LED art with a public interface to control colors and patterns.
 
